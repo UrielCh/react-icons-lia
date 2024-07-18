@@ -44,7 +44,7 @@
  * or using default export
  * 
  * ```ts
- * import Lia500Px from "react-icons/lia/Lia500Px.ts"
+ * import Lia500Px from "react-icons/lia/Lia500Px"
  * ```
  * @module
  * 
